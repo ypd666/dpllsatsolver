@@ -1,0 +1,2 @@
+/Users/ypd/vscode/dpllsatsolver/build/CMakeFiles/edit_cache.dir
+/Users/ypd/vscode/dpllsatsolver/build/CMakeFiles/rebuild_cache.dir

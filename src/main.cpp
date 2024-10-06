@@ -8,7 +8,8 @@ void main(int argc, char *argv[])
         return;
     }
     std::string filename = argv[1];
-    getin(in, filename);
-    std::string line;
+    int variables, clause;
+    getin(in, filename, variables, clause);
     in.close();
+
 }
