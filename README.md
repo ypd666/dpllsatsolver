@@ -1,7 +1,7 @@
 # HW1 of Optimization and Machine Learning in VLSI Design Automation
 This code about the DPLL SAT solver.
+
 Directory Tree
-Origin Code
  - src/getin.h
  - src/algo.h
  - src/getin.cpp
