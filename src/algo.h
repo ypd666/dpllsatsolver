@@ -3,7 +3,9 @@
 
 #include <vector>
 #include "getin.h"
-
+#include <cstdlib>
+#include <ctime>
+#include <iostream>
 // 检查所有子句是否满足
 bool allClausesSatisfied(const std::vector<clause> &clauses);
 

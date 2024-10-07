@@ -145,4 +145,21 @@ CMakeFiles/dpllsatsolver.dir/src/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_vector.h \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_bvector.h \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/vector.tcc \
- D:\25-1\opt\dpllsatsolver\src\algo.h
+ D:\25-1\opt\dpllsatsolver\src\algo.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/ctime \
+ C:/msys64/ucrt64/include/c++/13.1.0/unordered_set \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/unordered_set.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/hashtable.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/hashtable_policy.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/ext/aligned_buffer.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/enable_special_members.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/node_handle.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/erase_if.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/algorithm \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_algo.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/algorithmfwd.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_heap.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/uniform_int_dist.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_tempbuf.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/pstl/glue_algorithm_defs.h \
+ C:/msys64/ucrt64/include/c++/13.1.0/pstl/execution_defs.h

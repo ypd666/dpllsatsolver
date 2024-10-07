@@ -322,8 +322,10 @@ CMakeFiles/dpllsatsolver.dir/src/main.cpp.obj: D:/25-1/opt/dpllsatsolver/src/mai
   C:/msys64/ucrt64/include/_mingw_secapi.h \
   C:/msys64/ucrt64/include/_mingw_stat64.h \
   C:/msys64/ucrt64/include/_timeval.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/algorithm \
   C:/msys64/ucrt64/include/c++/13.1.0/backward/binders.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bit \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/algorithmfwd.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/alloc_traits.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/allocator.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/basic_ios.h \
@@ -337,6 +339,8 @@ CMakeFiles/dpllsatsolver.dir/src/main.cpp.obj: D:/25-1/opt/dpllsatsolver/src/mai
   C:/msys64/ucrt64/include/c++/13.1.0/bits/cpp_type_traits.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/cxxabi_forced.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/cxxabi_init_exception.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/enable_special_members.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/erase_if.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/exception.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/exception_defines.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/exception_ptr.h \
@@ -344,6 +348,8 @@ CMakeFiles/dpllsatsolver.dir/src/main.cpp.obj: D:/25-1/opt/dpllsatsolver/src/mai
   C:/msys64/ucrt64/include/c++/13.1.0/bits/functexcept.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/functional_hash.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/hash_bytes.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/hashtable.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/hashtable_policy.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/invoke.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/ios_base.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/istream.tcc \
@@ -357,6 +363,7 @@ CMakeFiles/dpllsatsolver.dir/src/main.cpp.obj: D:/25-1/opt/dpllsatsolver/src/mai
   C:/msys64/ucrt64/include/c++/13.1.0/bits/move.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/nested_exception.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/new_allocator.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/node_handle.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/ostream.tcc \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/ostream_insert.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/postypes.h \
@@ -366,20 +373,25 @@ CMakeFiles/dpllsatsolver.dir/src/main.cpp.obj: D:/25-1/opt/dpllsatsolver/src/mai
   C:/msys64/ucrt64/include/c++/13.1.0/bits/refwrap.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/requires_hosted.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/std_abs.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_algo.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_algobase.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_bvector.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_construct.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_function.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_heap.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_iterator.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_iterator_base_funcs.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_iterator_base_types.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_pair.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_tempbuf.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_uninitialized.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_vector.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/streambuf.tcc \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/streambuf_iterator.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/string_view.tcc \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/stringfwd.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/uniform_int_dist.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/bits/unordered_set.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/uses_allocator.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/uses_allocator_args.h \
   C:/msys64/ucrt64/include/c++/13.1.0/bits/utility.h \
@@ -390,11 +402,13 @@ CMakeFiles/dpllsatsolver.dir/src/main.cpp.obj: D:/25-1/opt/dpllsatsolver/src/mai
   C:/msys64/ucrt64/include/c++/13.1.0/cstddef \
   C:/msys64/ucrt64/include/c++/13.1.0/cstdio \
   C:/msys64/ucrt64/include/c++/13.1.0/cstdlib \
+  C:/msys64/ucrt64/include/c++/13.1.0/ctime \
   C:/msys64/ucrt64/include/c++/13.1.0/cwchar \
   C:/msys64/ucrt64/include/c++/13.1.0/cwctype \
   C:/msys64/ucrt64/include/c++/13.1.0/debug/assertions.h \
   C:/msys64/ucrt64/include/c++/13.1.0/debug/debug.h \
   C:/msys64/ucrt64/include/c++/13.1.0/exception \
+  C:/msys64/ucrt64/include/c++/13.1.0/ext/aligned_buffer.h \
   C:/msys64/ucrt64/include/c++/13.1.0/ext/alloc_traits.h \
   C:/msys64/ucrt64/include/c++/13.1.0/ext/atomicity.h \
   C:/msys64/ucrt64/include/c++/13.1.0/ext/numeric_traits.h \
@@ -408,6 +422,8 @@ CMakeFiles/dpllsatsolver.dir/src/main.cpp.obj: D:/25-1/opt/dpllsatsolver/src/mai
   C:/msys64/ucrt64/include/c++/13.1.0/istream \
   C:/msys64/ucrt64/include/c++/13.1.0/new \
   C:/msys64/ucrt64/include/c++/13.1.0/ostream \
+  C:/msys64/ucrt64/include/c++/13.1.0/pstl/execution_defs.h \
+  C:/msys64/ucrt64/include/c++/13.1.0/pstl/glue_algorithm_defs.h \
   C:/msys64/ucrt64/include/c++/13.1.0/pstl/pstl_config.h \
   C:/msys64/ucrt64/include/c++/13.1.0/stdexcept \
   C:/msys64/ucrt64/include/c++/13.1.0/stdlib.h \
@@ -418,6 +434,7 @@ CMakeFiles/dpllsatsolver.dir/src/main.cpp.obj: D:/25-1/opt/dpllsatsolver/src/mai
   C:/msys64/ucrt64/include/c++/13.1.0/tuple \
   C:/msys64/ucrt64/include/c++/13.1.0/type_traits \
   C:/msys64/ucrt64/include/c++/13.1.0/typeinfo \
+  C:/msys64/ucrt64/include/c++/13.1.0/unordered_set \
   C:/msys64/ucrt64/include/c++/13.1.0/vector \
   C:/msys64/ucrt64/include/c++/13.1.0/x86_64-w64-mingw32/bits/atomic_word.h \
   C:/msys64/ucrt64/include/c++/13.1.0/x86_64-w64-mingw32/bits/basic_file.h \
@@ -479,6 +496,8 @@ C:/msys64/ucrt64/include/c++/13.1.0/bits/new_allocator.h:
 C:/msys64/ucrt64/include/c++/13.1.0/ext/atomicity.h:
 
 C:/msys64/ucrt64/include/_timeval.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/bits/hashtable.h:
 
 C:/msys64/ucrt64/include/c++/13.1.0/bits/memoryfwd.h:
 
@@ -674,6 +693,8 @@ C:/msys64/ucrt64/include/c++/13.1.0/initializer_list:
 
 C:/msys64/ucrt64/include/c++/13.1.0/ios:
 
+C:/msys64/ucrt64/include/c++/13.1.0/bits/uniform_int_dist.h:
+
 C:/msys64/ucrt64/include/c++/13.1.0/iostream:
 
 C:/msys64/ucrt64/include/c++/13.1.0/istream:
@@ -706,6 +727,8 @@ C:/msys64/ucrt64/include/c++/13.1.0/vector:
 
 C:/msys64/ucrt64/include/c++/13.1.0/x86_64-w64-mingw32/bits/atomic_word.h:
 
+C:/msys64/ucrt64/include/c++/13.1.0/bits/hashtable_policy.h:
+
 C:/msys64/ucrt64/include/c++/13.1.0/x86_64-w64-mingw32/bits/basic_file.h:
 
 C:/msys64/ucrt64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++allocator.h:
@@ -733,6 +756,8 @@ C:/msys64/ucrt64/include/stdlib.h:
 C:/msys64/ucrt64/include/corecrt_wstdlib.h:
 
 C:/msys64/ucrt64/include/crtdefs.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_heap.h:
 
 C:/msys64/ucrt64/include/ctype.h:
 
@@ -791,3 +816,27 @@ D:/25-1/opt/dpllsatsolver/src/algo.h:
 C:/msys64/ucrt64/include/c++/13.1.0/sstream:
 
 D:/25-1/opt/dpllsatsolver/src/main.cpp:
+
+C:/msys64/ucrt64/include/c++/13.1.0/algorithm:
+
+C:/msys64/ucrt64/include/c++/13.1.0/bits/algorithmfwd.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/bits/enable_special_members.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/bits/erase_if.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/bits/node_handle.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_algo.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_tempbuf.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/bits/unordered_set.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/ext/aligned_buffer.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/pstl/execution_defs.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/pstl/glue_algorithm_defs.h:
+
+C:/msys64/ucrt64/include/c++/13.1.0/unordered_set:

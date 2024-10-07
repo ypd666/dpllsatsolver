@@ -24,12 +24,12 @@ void getin(std::ifstream &in, std::string &filename, int &variables, int &clause
         iss >> ch;
         if (ch == 'c') {
             // 输出评论
-            std::cout << "Comment: " << line.substr(1) << std::endl;
+            //std::cout << "Comment: " << line.substr(1) << std::endl;
         } else if (ch == 'p') {
             // 读取问题行
             std::string tmp;
             iss >> tmp >> variables >> clauseCount;
-            std::cout << "Problem line: " << tmp << " " << variables << " " << clauseCount << std::endl;
+            //std::cout << "Problem line: " << tmp << " " << variables << " " << clauseCount << std::endl;
         } else {
             // 读取子句
             std::vector<int> lits;
