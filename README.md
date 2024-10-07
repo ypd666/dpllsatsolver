@@ -18,3 +18,6 @@ this will make dpllsatsolver.exe, then you can use:
 ./dpllsatsolver.exe {inputfile} e.g.unif-c500-v250-s453695930.cnf
 ```
 Then the result will show in terminal.
+
+*Lecturer*: Yibo Lin
+*TA*: Chunyuan Zhao, Jincheng Lou
