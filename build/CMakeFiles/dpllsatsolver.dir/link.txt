@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\dpllsatsolver.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\dpllsatsolver.dir/objects.a @CMakeFiles\dpllsatsolver.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\dpllsatsolver.dir/objects.a -Wl,--no-whole-archive -o D:\25-1\opt\dpllsatsolver\dpllsatsolver.exe -Wl,--out-implib,libdpllsatsolver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dpllsatsolver.dir\linkLibs.rsp

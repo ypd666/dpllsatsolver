@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/25-1/opt/dpllsatsolver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\dpllsatsolver.dir\\src\\main.cpp.obj -c D:\\25-1\\opt\\dpllsatsolver\\src\\main.cpp",
+  "file": "D:/25-1/opt/dpllsatsolver/src/main.cpp",
+  "output": "CMakeFiles/dpllsatsolver.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/25-1/opt/dpllsatsolver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\dpllsatsolver.dir\\src\\algo.cpp.obj -c D:\\25-1\\opt\\dpllsatsolver\\src\\algo.cpp",
+  "file": "D:/25-1/opt/dpllsatsolver/src/algo.cpp",
+  "output": "CMakeFiles/dpllsatsolver.dir/src/algo.cpp.obj"
+},
+{
+  "directory": "D:/25-1/opt/dpllsatsolver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\dpllsatsolver.dir\\src\\getin.cpp.obj -c D:\\25-1\\opt\\dpllsatsolver\\src\\getin.cpp",
+  "file": "D:/25-1/opt/dpllsatsolver/src/getin.cpp",
+  "output": "CMakeFiles/dpllsatsolver.dir/src/getin.cpp.obj"
+}
+]
