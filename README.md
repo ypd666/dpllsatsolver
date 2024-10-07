@@ -19,5 +19,6 @@ this will make dpllsatsolver.exe, then you can use:
 ```
 Then the result will show in terminal.
 
-*Lecturer*: Yibo Lin
-*TA*: Chunyuan Zhao, Jincheng Lou
+**Lecturer**: Yibo Lin
+
+**TA**: Chunyuan Zhao, Jincheng Lou
